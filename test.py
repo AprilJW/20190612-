@@ -4,6 +4,8 @@ import jieba
 import jieba.posseg as pseg
 from jieba import analyse
 import os
+import gensim
+gensim.models.doc2vec.bu
 
 # table = pd.read_csv('爬取的新闻0609.csv')
 # #print(table.head())
